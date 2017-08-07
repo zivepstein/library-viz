@@ -1,5 +1,5 @@
 # library-viz
-![alt text](https://raw.githubusercontent.com/zivepstein/library-viz/app/screenshot.png)
+![alt text](https://github.com/zivepstein/library-viz/blob/master/app/screenshot.png)
 
 This reposity serves as a wrapper for an academic digital library of PDFs. It uses a simple d3 + flask app to visualize and explore the library.
 
